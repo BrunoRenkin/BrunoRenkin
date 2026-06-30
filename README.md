@@ -9,3 +9,4 @@ Paris - Aix-en-Provence - Toulouse - Brussels
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brunorenkin-0077B5?logo=linkedin)](https://linkedin.com/in/brunorenkin)
 [![X](https://img.shields.io/badge/X-@bruno__renkin-black?logo=x)](https://x.com/bruno_renkin)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@bruno--renkin-0085ff?logo=bluesky&logoColor=white)](https://bsky.app/profile/bruno-renkin.bsky.social)
