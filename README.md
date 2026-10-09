@@ -3,7 +3,7 @@
 > Turning satellite data and market intelligence into winning proposals
 
 Innovation, Partnership & Bid Manager @ [Prométhée Earth Intelligence](https://promethee.earth)  
-Paris - Aix-en-Provence - Toulouse - Brussels
+Paris - Aix-en-Provence - Toulouse
 
 **Focus** : Earth Observation, Geospatial AI, Space tech, Deeptech Innovation, Tech Sovereignty, Europe strategic autonomy, Proposal writing
 
